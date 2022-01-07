@@ -657,3 +657,5 @@ libsigcpp
 cairomm
 graph-tool
 galpy
+sunpy
+
